@@ -288,10 +288,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        61,
-                        62
+                        118,
+                        119
                       ],
-                      "referencedDeclaration": 61,
+                      "referencedDeclaration": 118,
                       "src": "212:7:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -374,7 +374,7 @@
                         "name": "msg",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 58,
+                        "referencedDeclaration": 115,
                         "src": "303:3:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_message",
@@ -850,10 +850,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        61,
-                        62
+                        118,
+                        119
                       ],
-                      "referencedDeclaration": 61,
+                      "referencedDeclaration": 118,
                       "src": "212:7:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -936,7 +936,7 @@
                         "name": "msg",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 58,
+                        "referencedDeclaration": 115,
                         "src": "303:3:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_message",
@@ -1188,7 +1188,14 @@
     "name": "solc",
     "version": "0.4.24+commit.e67f0147.Emscripten.clang"
   },
-  "networks": {},
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0x2bc5a680a8085feb674f1b5d56c2de061f4e8109",
+      "transactionHash": "0xd2cf1764fafcc88e85a3d56775f692c0ade4042ae16befa75415ee976025c604"
+    }
+  },
   "schemaVersion": "2.0.1",
-  "updatedAt": "2018-10-21T06:13:00.074Z"
+  "updatedAt": "2018-10-21T06:59:41.526Z"
 }

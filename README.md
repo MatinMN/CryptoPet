@@ -1,1 +1,1 @@
-# CryptoDogo
+# CryptoPet
